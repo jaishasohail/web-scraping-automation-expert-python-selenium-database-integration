@@ -1,0 +1,1 @@
+Please send me the repository link (or the README’s directory structure block if you already have it copied), and I’ll generate full runnable code for every file exactly in the format you specified.
